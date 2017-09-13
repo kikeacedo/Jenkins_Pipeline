@@ -1,4 +1,3 @@
-# Jenkins_Pipeline
 pipeline {
     agent any
 
